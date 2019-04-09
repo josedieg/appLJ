@@ -32,8 +32,9 @@
         </div>
       </div>
     </main>
-
-    <footer-vue cor="green darken-1"></footer-vue>
+    <footer>
+      <footer-vue cor="green darken-1"></footer-vue>
+    </footer>
   </span>
 </template>
 
